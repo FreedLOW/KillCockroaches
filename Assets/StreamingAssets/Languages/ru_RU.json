@@ -1,0 +1,19 @@
+{
+	"sound":"Звук",
+	"music":"Песня",
+	"vibration":"Вибрация",
+	"languages":"Язык",
+	"notification":"Уведомление",
+	"max_score":"Рекорд",
+	"last_score":"Последний",
+	"buy":"Купить",
+	"accept":"OK",
+	"restart":"Рестарт",
+	"mainMenu":"Главное меню",
+	"money":"У вас:",
+	"lose":"Тараканы победили!",
+	"not_enough":"Недостаточно денег!",
+	"enother_skin":"Этот скин уже активен!",
+	"title_n":"KillCockroaches",
+	"text_n":"Для получения ежедневного бонуса зайдите в игру!"
+}

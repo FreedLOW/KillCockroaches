@@ -1,0 +1,19 @@
+{
+	"sound":"声音",
+	"music":"音乐",
+	"vibration":"震动",
+	"languages":"语言",
+	"notification":"通知",
+	"max_score":"记录",
+	"last_score":"最新结果",
+	"buy":"购买",
+	"accept":"关于К",
+	"restart":"重新启动",
+	"mainMenu":"主菜单",
+	"money":"你有:",
+	"lose":"蟑螂赢了!",
+	"not_enough":"没有足够的钱!",
+	"enother_skin":"这个皮肤已经很活跃了!",
+	"title_n":"KillCockroaches",
+	"text_n":"为了获得每日奖金，请登录游戏!"
+}

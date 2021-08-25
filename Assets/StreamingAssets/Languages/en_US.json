@@ -1,0 +1,19 @@
+{
+	"sound":"Sound",
+	"music":"Music",
+	"vibration":"Vibration",
+	"languages":"Language",
+	"notification":"Notifications",
+	"max_score":"Max",
+	"last_score":"Last",
+	"buy":"Buy",
+	"accept":"OK",
+	"restart":"Restart",
+	"mainMenu":"Main menu",
+	"money":"You have:",
+	"lose":"Cockroaches wins!",
+	"not_enough":"Not enough money!",
+	"enother_skin":"This skin is already active!",
+	"title_n":"KillCockroaches",
+	"text_n":"For the daily bonus, log in to the game!"
+}
